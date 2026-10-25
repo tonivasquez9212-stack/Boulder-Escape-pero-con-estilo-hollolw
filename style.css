@@ -1,0 +1,5 @@
+html, body { margin: 0; height: 100%; overflow: hidden; background: #1b2a1b; font-family: system-ui, sans-serif; }
+canvas { display: block; }
+#hud { position: fixed; top: 12px; left: 16px; color: #fff; text-shadow: 0 2px 4px #000; pointer-events: none; }
+#hud h1 { margin: 0 0 4px; font-size: 22px; letter-spacing: 2px; }
+#hud p { margin: 2px 0; font-size: 14px; }
